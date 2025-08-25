@@ -2,3 +2,6 @@ git init . -> cria um repositorio git na pasta atual
 git status -> mostra o estatus de trabalho de cada arquivo 
 git add nome_aquivo-> adiciona arquivo para ser commitado
 git commit -m "msg" -> faz commit do que estava para ser commitado 
+git add .-> o ponto adiciona commit na pasta atual 
+git add comando_* -> vai adicionar um commit em todas as pasta com nome comando 
+
