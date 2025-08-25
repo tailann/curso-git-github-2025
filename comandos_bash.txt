@@ -4,3 +4,5 @@ pwd -> mostra diretorio de trabalho
 cat -> exibe conteudo do arquivo 
 rm  -> remove arquivos ou diretorios vazios
 rm -rf -> remove arquivos ou diretorios de forma forçada 
+
+teste
