@@ -5,3 +5,5 @@ git commit -m "msg" -> faz commit do que estava para ser commitado
 git add .-> o ponto adiciona commit na pasta atual 
 git add comando_* -> vai adicionar um commit em todas as pasta com nome comando 
 teste 
+
+vou auterar anan aqui
