@@ -6,3 +6,9 @@ rm  -> remove arquivos ou diretorios vazios
 rm -rf -> remove arquivos ou diretorios de forma forçada 
 
 teste
+esse teste 
+e da 
+ana 
+para 
+ver 
+no terminal 
